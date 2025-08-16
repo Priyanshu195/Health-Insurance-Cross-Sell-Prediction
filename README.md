@@ -1,4 +1,4 @@
-# Health-Insurance-Cross-Sell-Prediction
+
 Predicting whether a customer would be interested in buying Vehicle Insurance so that the company can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
 
 Table of Content
@@ -102,14 +102,9 @@ iv. Recall
 v. F1-Score
 vi. ROC-AUC Score
 vii. Log Loss
-image	image
 Evaluaion Before Tuning
 
-image
-
 Evaluaion After Tuning
-
-image
 
 Challenges Faced
 Handling Large dataset.
@@ -120,6 +115,5 @@ Starting from loading our dataset, we firstly performed data cleaning and refact
 
 Here is a glimpse of few graphs we plotted, there are many more in the notebook please have a look.
 
-image	image	image
-image	image	image
-image	image	image
+
+
